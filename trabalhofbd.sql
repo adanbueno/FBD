@@ -1,0 +1,1 @@
+﻿create table eventos (dia date, nome varchar (30), cidade varchar(30), atracao varchar (50), primary key (nome, dia, cidade));
